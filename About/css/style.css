@@ -1,0 +1,38 @@
+
+            table,tr,th,td {
+                border: 2px solid Black;
+            }
+
+
+
+		
+			
+			
+
+/*footer*/
+#footer{
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#footer .pooo{
+    border-radius: 25px;
+}
+#footer #socialIcon{
+    padding-top: 40px;
+}
+#footer #socialIcon i{
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+

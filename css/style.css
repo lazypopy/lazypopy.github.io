@@ -1,0 +1,89 @@
+
+
+
+
+
+.overlay {
+    
+   
+    background-position: center center;
+   /height: 600px;
+    color: black;
+    background-size: cover;
+   / padding-top: 150px;
+
+}
+
+
+
+
+
+
+.po{
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+#banner .poo{
+   background-color: transparent;
+    font-size: 50px;
+
+}
+
+
+#feature{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#feature .pop {
+    background: white;
+
+}
+#feature  p{
+    color: #000;
+}
+#feature .pop i {
+    color: #009f00;
+    font-size: 50px;
+}
+#workshop{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: #e2dfe0;
+}
+#workshop .thumbnail{
+    height: 200px;
+
+}
+#workshop  i {
+    padding-top: 20px;
+    color: #009f00;
+    font-size: 50px;
+}
+/*footer*/
+#footer{
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#footer .pooo{
+    border-radius: 25px;
+}
+#footer #socialIcon{
+    padding-top: 40px;
+}
+#footer #socialIcon i{
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+

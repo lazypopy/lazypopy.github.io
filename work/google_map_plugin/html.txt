@@ -1,0 +1,9 @@
+
+        <section id="googleMap">
+            <div class="container-fluid">
+                <div class="row">
+                    <h1 class="text-center text-uppercase">Responsive Google Map</h1>
+                    <div id="map"></div>
+                </div>
+            </div>
+        </section>

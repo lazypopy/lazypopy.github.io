@@ -1,0 +1,122 @@
+.overlay {
+    background: linear-gradient(rgba(138, 138, 138, 0.7), rgba(206, 206, 206, 0)),url("../img/hero_3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+   height: 700px;
+    color: #ffffff;
+    background-size: cover;
+    padding-top: 250px;
+
+}
+.navbar-default{
+    background: transparent;
+    color: white;
+    margin-top:-250px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+}
+
+
+#feature{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#feature .pop {
+    background: white;
+
+}
+#feature  p{
+    color: #d1d1d1;
+}
+#feature .pop i {
+    color: #e0e0e0;
+    font-size: 50px;
+}
+
+#feature .h4{
+    color: white;
+}
+
+
+#popy{
+    background-color: white;
+    padding-top:80px;
+    padding-bottom:80px ;
+}
+
+
+#popy p{
+    color: #000;
+}
+
+
+
+
+/*ceo*/
+
+#ceo{
+    padding: 80px 0px;
+    background-color: white;
+}
+#ceo .text-justify{
+    line-height: 2em;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+/*Map Css starts*/
+
+#map{
+     height: 500px;
+     width: 100%;
+    margin: 0;
+    padding: 0;
+ }
+#googleMap .ppp{
+    padding: 37px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin-top: -372px;
+}
+
+
+
+
+
+/*footer*/
+#footer{
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#footer .pooo{
+    border-radius: 25px;
+}
+#footer #socialIcon{
+    padding-top: 40px;
+}
+#footer #socialIcon i{
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
